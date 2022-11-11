@@ -3,7 +3,7 @@
 <p><a title="" href="https://shinotakayama.github.io/3050/gt1.ppt"><span style="font-size: large;">Slide 1</span></a> Introduction to Game Theory</p>
 <p><a title="" href="https://shinotakayama.github.io/3050/gt2.ppt"><span style="font-size: large;">Slide 2</span></a> Best Response</p>
 <p><a title="" href="https://shinotakayama.github.io/3050/gt3.ppt"><span style="font-size: large;">Slide 3</span></a>Cournot, Bertrand and Hotelling</p>
-<p><a title="" https://shinotakayama.github.io/3050/gt4.ppt"><span style="font-size: large;">Slide 4</span></a> Introduction to Mechanism Design</p>
+<p><a title="" href="https://shinotakayama.github.io/3050/gt4.ppt"><span style="font-size: large;">Slide 4</span></a> Introduction to Mechanism Design</p>
 <p><a title="" href="https://shinotakayama.github.io/3050/gt508.ppt"><span style="font-size: large;">Slide 5</span></a> Randomization</p>
 <p><a title="" href="https://shinotakayama.github.io/3050/gt608.ppt"><span style="font-size: large;">Slide 6</span></a> Mixed Strategy</p>
 <p><a title="" href="https://shinotakayama.github.io/3050/gt808.ppt"><span style="font-size: large;">Slide 7</span></a> Extensive Game</p>
